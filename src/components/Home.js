@@ -6,7 +6,7 @@ function Home({ isLoggedIn }) {
 
   return (
     <div>
-      <h3>Search for movie/tv show</h3>
+      <h3>Search for a movie/tv show</h3>
     </div>
   );
 }
